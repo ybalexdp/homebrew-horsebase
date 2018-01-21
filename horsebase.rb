@@ -1,13 +1,11 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook.html
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-
-class Horsebase < Formula
+ class Horsebase < Formula
   desc "Stores horse race data in the DB."
   homepage ""
   url "https://github.com/ybalexdp/horsebase/releases/download/v0.4.0/horsebase_v0.4.0_darwin_amd64.zip"
-  sha256 "bfd3a83240f1209afb7e9730bb2703e2ddd76d4e60a4c40e530f7cd163410b1c"
-
+  sha256 "6e497e16b2201e08f295d9427d1116f5eb3cc5be03b47003b777ac18ba4fb4e7"
   # depends_on "cmake" => :build
 
   def install
