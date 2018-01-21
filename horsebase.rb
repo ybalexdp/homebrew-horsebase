@@ -4,9 +4,9 @@
 
 class Horsebase < Formula
   desc "Stores horse race data in the DB."
-  homepage "https://github.com/ybalexdp/horsebase"
-  url "https://github.com/ybalexdp/horsebase/releases/download/v0.3.0/horsebase_v0.3.0_darwin_amd64.zip"
-  sha256 "0d8432b7e5237733c8422a59db88a94efa5a853ce1e46029207bbb67d1466fb9"
+  homepage ""
+  url "https://github.com/ybalexdp/horsebase/releases/download/v0.4.0/horsebase_v0.4.0_darwin_amd64.zip"
+  sha256 "bfd3a83240f1209afb7e9730bb2703e2ddd76d4e60a4c40e530f7cd163410b1c"
 
   # depends_on "cmake" => :build
 
